@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// TODO(#1): use base64
 import logo from './logo.svg';
 import './App.css';
 
